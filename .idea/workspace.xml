@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23b2241d-59d5-405e-9885-2dc640b28f63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/frontmania-rxjs-workshop/0-playground.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontmania-rxjs-workshop/0-playground.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontmania-rxjs-workshop/03-exercise.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontmania-rxjs-workshop/03-exercise.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontmania-rxjs-workshop/05-exercise.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontmania-rxjs-workshop/05-exercise.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontmania-rxjs-workshop/06-exercise.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontmania-rxjs-workshop/06-exercise.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontmania-rxjs-workshop/09-exercise.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontmania-rxjs-workshop/09-exercise.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects>
+      <project path="$PROJECT_DIR$/elm-workshop/part2/elm-package.json" />
+    </elmProjects>
+    <settings elmCompilerPath="/usr/local/bin/elm" elmFormatPath="$USER_HOME$/.nvm/versions/node/v13.0.1/bin/elm-format" elmTestPath="" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/elm-workshop" />
+  </component>
+  <component name="ProjectId" id="1Tgyuelun3K5V58o3NKEBkXUoOl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/elm-workshop/part2/elm-package.json" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.elm.workspace.ui.ElmWorkspaceConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ELM_TEST_RUN_CONFIGURATION" factoryName="Elm Test configuration factory">
+      <ElmTestRunConfiguration elm-folder="$PROJECT_DIR$/elm-workshop/part2" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23b2241d-59d5-405e-9885-2dc640b28f63" name="Default Changelist" comment="" />
+      <created>1573896256386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573896256386</updated>
+      <workItem from="1573896259593" duration="602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

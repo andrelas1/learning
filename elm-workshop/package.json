@@ -1,0 +1,31 @@
+{
+  "name": "elm-workshop",
+  "version": "1.0.0",
+  "description": "<i>This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>. Enjoy!</i>",
+  "main": "install.js",
+  "scripts": {
+    "elm": "elm-live Main.elm --open --output=elm.js",
+    "elm-install": "elm-package install --yes",
+    "part2": "cd part2 && elm-package install && elm-live Main.elm --open --output=elm.js",
+    "part3": "cd part3 && elm-package install && elm-live Main.elm --open --output=elm.js",
+    "part4": "cd part4 && elm-package install && elm-live Main.elm --open --output=elm.js",
+    "part5": "cd part5 && elm-package install && elm-live Main.elm --open --output=elm.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtfeldman/elm-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtfeldman/elm-workshop/issues"
+  },
+  "homepage": "https://github.com/rtfeldman/elm-workshop#readme",
+  "dependencies": {
+    "elm": "^0.18.0",
+    "elm-css": "^0.6.1",
+    "elm-format": "^0.8.2",
+    "elm-live": "^2.6.1",
+    "elm-test": "^0.19.1"
+  }
+}
